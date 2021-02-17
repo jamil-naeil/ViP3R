@@ -1,2 +1,2 @@
 ## Created By @ERR0Rxx / @T34M3RR0Rz
-pkg upgrade -y && pkg install python -y && pkg install tsu -y && sudo chmod +x * && sudo chmod +x /module/* && exit 0 >/dev/null 2>/dev/null
+pkg upgrade -y && pkg install python -y && pkg install tsu && cd ~/ViP3R && chmod +rwx * && cd module && chmod +rwx * && cd ~/ViP3R
